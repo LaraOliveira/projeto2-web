@@ -1,0 +1,27 @@
+{
+  "name": "projeto2-web",
+  "version": "1.0.0",
+  "description": "Projeto 2 da disciplina de Desenvolvimento de Software para Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaraOliveira/projeto2-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaraOliveira/projeto2-web/issues"
+  },
+  "homepage": "https://github.com/LaraOliveira/projeto2-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
