@@ -59,4 +59,4 @@ class AnimalController{
     }
 }
 
-module.exports = new AnimalController()
+export default new AnimalController()
